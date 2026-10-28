@@ -1,0 +1,4 @@
+payload equal: true
+hash equal: true
+key found: true active: active
+sig valid: true
